@@ -1,0 +1,7 @@
+/.vs
+/ipch
+/*.VC.db
+/*.VC.VC.opendb
+*.vcxproj.user
+Debug
+Release
