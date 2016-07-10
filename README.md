@@ -4,6 +4,8 @@ SetScreenResolution is a small Windows utility to change the Desktop screen reso
 
     SetScreenResolution 1920 1080
 
+The latest version can be downloaded from the [releases section here](https://github.com/gurnec/SetScreenResolution/releases/latest).
+
 
 ## Warning ##
 
